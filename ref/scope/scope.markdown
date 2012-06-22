@@ -13,7 +13,7 @@ Lukas Eppler
 
 ## Ausgangslage
 
-Im Jahr 2011 wurden insgesamt 1460 Vereine mit insgesamt 13'470 Teams beim
+Im Jahr 2011 wurden rund 1460 Vereine mit insgesamt 13'470 Teams beim
 Schweizerischen Fussballverband gemeldet. Bei vielen dieser Vereine steigt die
 Mitgliederanzahl von Jahr zu Jahr nahezu kontinuierlich. Dies macht es immer
 schwieriger die Übersicht zu behalten und sich auf das Kerngeschäft zu
@@ -27,11 +27,18 @@ Unterstützung der Planung und öffentlicher Wertschätzung der Einsätze.
 ## Ziel der Arbeit
 
 Als Basis soll eine webbasierte Mitgliederverwaltung erstellt werden. Diese
-ermöglicht es den Vereinen die Daten aller Mitglieder zu erfassen, zu ändern
-oder zu löschen. Des Weiteren soll eine Funktion erstellt werden die es den
-Vereinsverantwortlichen ermöglicht, die Mitglieder zur aktiven Mithilfe zu
-animieren und auf eine spezielle Art und Weise eine aktuelle Statistik (Ranking)
-zu führen, wer wieviel und wann freiwillige Arbeit geleistet hat.
+Mitgliederverwaltung soll den Vereinen ermöglichen alle Mitglieder und deren
+persönlichen Daten erfassen, modifizieren und löschen zu können. Aufbauend auf
+dieser Basis soll eine Arbeitsverteilungs-Funktion entwickelt werden. Diese
+Arbeitsverteilungs-Funktion soll die Verantwortlichen in der Organisation der
+Freiwilligenarbeit unterstützen. Mit dieser Funktion sollen zukünftige Events
+mit Informationen über Art des Events, Datum, Zeitfenster (Arbeitszeiten),
+Anzahl der benötigten Helfer etc. publiziert bzw. ausgeschrieben werden können.
+Die Mitglieder sollen sich dann für die entsprechenden Zeitfenster einschreiben
+können. Mit Hilfe dieser Arbeitsverteilungs-Funktion soll den
+Vereinsverantwortlichen ermöglicht werden, die Mitglieder zur aktiven Mithilfe
+zu animieren und auf eine spezielle Art und Weise eine aktuelle Statistik
+(Ranking) zu führen, wer wieviel und wann freiwillige Arbeit geleistet hat.
 
 ## Aufgabenstellung
 
@@ -61,4 +68,4 @@ Folgende Aufgaben werden im Rahmen dieser Semesterarbeit durchgeführt:
 ## Zusammenfassung
 
 Es soll eine webbasierte Mitgliederverwaltung mit integrierter
-Arbeitsverteilungs- resp. Arbeitsplanungs-Funktion erstellt werden.
+Arbeitsverteilungs-Funktion erstellt werden.
