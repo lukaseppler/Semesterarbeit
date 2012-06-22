@@ -13,15 +13,16 @@ Lukas Eppler
 
 ## Ausgangslage
 
-Im Jahr 2011 wurden insgesamt 1460 Vereine und folglich 13'470 Teams beim
+Im Jahr 2011 wurden insgesamt 1460 Vereine mit insgesamt 13'470 Teams beim
 Schweizerischen Fussballverband gemeldet. Bei vielen dieser Vereine steigt die
 Mitgliederanzahl von Jahr zu Jahr nahezu kontinuierlich. Dies macht es immer
 schwieriger die Übersicht zu behalten und sich auf das Kerngeschäft zu
-konzentrieren. Während die Mitgliederanzahl stetig steigt, sinkt des Weiteren
-die Bereitschaft zur Freiwilligenarbeit enorm. Für viele Vereine ist es heut zu
-Tage ein grosses Problem die Mitglieder zur aktiven und freiwilligen Mithilfe zu
+konzentrieren. Während die Mitgliederanzahl stetig steigt, sinkt gleichzeitig
+die Bereitschaft zur Freiwilligenarbeit enorm. Für viele Vereine ist es heutzutage
+ein grosses Problem, die Mitglieder zur aktiven und freiwilligen Mithilfe zu
 animieren. Eine webbasierte Mitgliederverwaltung mit integrierter
-Arbeitsverteilungs-Funktion soll hier entsprechend Abhilfe leisten.
+Arbeitsverteilungs-Funktion soll hier entsprechend Abhilfe leisten durch
+Unterstützung der Planung und öffentlicher Wertschätzung der Einsätze.
 
 ## Ziel der Arbeit
 
