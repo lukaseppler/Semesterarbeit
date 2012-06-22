@@ -36,13 +36,13 @@ zu führen, wer wieviel und wann freiwillige Arbeit geleistet hat.
 
 Folgende Aufgaben werden im Rahmen dieser Semesterarbeit durchgeführt:
 
- #. Erstellen einer detaillierten Anforderunganalyse, um die Bedürfnisse eines
+ 1. Erstellen einer detaillierten Anforderunganalyse, um die Bedürfnisse eines
     Vereins aufzeigen und erfüllen zu können
- #. Marktanalyse, um existierende Lösungen analysieren und anhand ihrer Stärken
+ 1. Marktanalyse, um existierende Lösungen analysieren und anhand ihrer Stärken
     und Schwächen bewerten zu können
- #. Erstellen der Architektur und Design der Software
- #. Einarbeitung und Vertiefung in Ruby on Rails
- #. Erstellen der Software inkl. Testing
+ 1. Erstellen der Architektur und Design der Software
+ 1. Einarbeitung und Vertiefung in Ruby on Rails
+ 1. Erstellen der Software inkl. Testing
 
 ## Erwartete Resultate
 
