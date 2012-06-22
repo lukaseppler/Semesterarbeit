@@ -22,7 +22,7 @@ Sportvereine) wird es immer schwieriger, die Übersicht zu behalten und sich auf
 das Kerngeschäft zu konzentrieren. Da in der heutigen Zeit auch Vereine nicht
 von der Informationsflut verschont bleiben, stellt zudem die oftmals fehlende
 Kommunikation ein Problem dar. Viele Vereine versuchen ihren Datenbestand anhand
-von etlichen Excel-Sheets zu pflegen und aktuell zu halten, was aber meistens in
+von etlichen Excel-Sheets zu pflegen und aktuell zu halten, was aber meistens
 unübersichtlich wird und in einem Chaos endet. Eine webbasierte
 Vereinsverwaltung in soll hier entsprechend Abhilfe leisten.
 
