@@ -17,18 +17,18 @@ Lukas Eppler
 
 ## Ausgangslage
 
-Aufgrund hoher Anzahl an Mitgliedern in den meisten Vereinen (hauptsächlich
-Sportvereine) wird es immer schwieriger die Übersicht zu behalten und sich auf
+Aufgrund der hohen Anzahl von Mitgliedern in den meisten Vereinen (hauptsächlich
+Sportvereine) wird es immer schwieriger, die Übersicht zu behalten und sich auf
 das Kerngeschäft zu konzentrieren. Da in der heutigen Zeit auch Vereine nicht
 von der Informationsflut verschont bleiben, stellt zudem die oftmals fehlende
 Kommunikation ein Problem dar. Viele Vereine versuchen ihren Datenbestand anhand
 von etlichen Excel-Sheets zu pflegen und aktuell zu halten, was aber meistens in
-einer Unübersichtlichkeit und in einem Chaos endet. Eine webbasierte
+unübersichtlich wird und in einem Chaos endet. Eine webbasierte
 Vereinsverwaltung in soll hier entsprechend Abhilfe leisten.
 
 ## Ziel der Arbeit
 
-Es soll eine webbasierte Vereinsverwaltung erstellt werden welche die
+Es soll eine webbasierte Vereinsverwaltung erstellt werden, welche die
 Anforderungen an die Bedürfnisse eines Vereins erfüllt. Die Vereinsverwaltung
 soll vor allem für alle Funktionäre (Vorstand, technischer Leiter, Trainer,
 Betreuer etc.) zugänglich sein und folgende Eigenschaften erfüllen:
@@ -40,12 +40,11 @@ Betreuer etc.) zugänglich sein und folgende Eigenschaften erfüllen:
 
 Im Rahmen dieser Semesterarbeit werden vom Studenten folgende Aufgaben durchgeführt:
 
- #. Erstellen einer detaillierten Anforderunganalyse 
- #. Marktanalyse um die Stärken und Schwächen der existierenden Vereinslösungen
-    aufzuzeigen
- #. Architektur und Design der Applikation erstellen
- #. Einarbeitung und Vertiefung in Ruby on Rails
- #. Erstellen der Applikation inkl. Testing
+1. Erstellung einer detaillierten Anforderunganalyse 
+1. Durchführung einer Marktanalyse um die Stärken und Schwächen der existierenden Vereinslösungen aufzuzeigen
+1. Aufbau der Architektur und des Designs der Applikation
+1. Einarbeitung und Vertiefung in Ruby on Rails
+1. Entwicklung der Applikation inkl. Testing
 
 
 ## Erwartete Resultate
@@ -96,7 +95,7 @@ TBD
 * Integriertes Project- und Issue-Tracking Tool für Pendenzen und Vereinsprojekte
 
 * Newsletter- und SMS-Versand
-	* Für Informationen und Aufgebote, sei es Verein- oder Mannschafts-bezogen
+	* Für Informationen und Aufgebote, sei es Verein- oder Mannschaftsbezogen
 
 * Erstellen einer Smartphone App für iOS und Android
 	* Nutzen von Push Notifications für Spielresultate, wichtige Mitteilungen
